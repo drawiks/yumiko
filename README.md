@@ -3,7 +3,7 @@
     <img height="20" alt="Python 3.11+" src="https://img.shields.io/badge/python-3.11+-blue">
     <img height="20" alt="License MIT" src="https://img.shields.io/badge/license-MIT-green">
     <img height="20" alt="Status" src="https://img.shields.io/badge/status-stable-red">
-    <p><strong>yumiko</strong> — это telegram-бот для преобразования голосовых сообщений в текст</p>
+    <p><strong>yumiko</strong> — telegram-бот для преобразования голосовых сообщений в текст</p>
     <blockquote>(─‿‿─)</blockquote>
 </div>
 
