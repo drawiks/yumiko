@@ -30,8 +30,8 @@ yumiko/
 │   │   └── config.py
 │   ├── services/
 │   │   ├── __init__.py
-│   │   ├── abstract.py          # --- абстрактный класс stt сервиса ---
-│   │   └── groq_stt.py         # --- groq api ---
+│   │   ├── abstract.py        # --- абстрактный класс stt сервиса ---
+│   │   └── groq_stt.py        # --- groq api ---
 │   ├── handlers/
 │   │   ├── __init__.py
 │   │   ├── commands.py
@@ -42,7 +42,7 @@ yumiko/
 │   │   └── registry.py        # --- DI контейнер ---
 │   ├── utils/
 │   │   ├── __init__.py
-│   │   └── file_downloader.py # --- загрузка файлов ---
+│   │   └── file_downloader.py
 │   │
 │   └── main.py
 │
