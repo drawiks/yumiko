@@ -31,7 +31,7 @@ yumiko/
 │   ├── services/
 │   │   ├── __init__.py
 │   │   ├── abstract.py        # --- абстрактный класс stt сервиса ---
-│   │   └── groq_stt.py        # --- groq api ---
+│   │   └── groq.py            # --- groq api ---
 │   ├── handlers/
 │   │   ├── __init__.py
 │   │   ├── commands.py
